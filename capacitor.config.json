@@ -1,0 +1,6 @@
+{
+  "appId": "com.pab.pdfmeasure",
+  "appName": "PDF Measure",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
